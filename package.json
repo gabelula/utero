@@ -1,15 +1,13 @@
 {
   "name": "utero",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toolkit to create websites with content as code architecture.",
   "bin": {
     "utero": "../../../lib/node_modules/docsmith/lib/docsmith.js",
     "utero-init": "../../../lib/node_modules/docsmith/lib/docsmith-init.js",
-    "utero-load": "../../../lib/node_modules/docsmith/lib/docsmith-load.js",
-    "utero-save": "../../../lib/node_modules/docsmith/lib/docsmith-save.js",
-    "utero-config": "../../../lib/node_modules/docsmith/lib/docsmith-config.js",
     "utero-link": "../../../lib/node_modules/docsmith/lib/docsmith-link.js",
     "utero-start": "../../../lib/node_modules/docsmith/lib/docsmith-start.js",
+    "utero-status": "../../../lib/node_modules/docsmith/lib/docsmith-status.js",
     "utero-run": "../../../lib/node_modules/docsmith/lib/docsmith-run.js",
     "utero-pkgpath": "./package.json"
   },
