@@ -20,7 +20,7 @@
     "url": "git+https://github.com/gabelula/utero.git"
   },
   "author": "Tactical Tech Collective",
-  "license": "Attribution-ShareAlike",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/gabelula/utero/issues"
   },
@@ -28,5 +28,8 @@
   "devDependencies": {
     "remark-frontmatter": "^1.2.0",
     "remark-preset-lint-markdown-style-guide": "^2.1.1"
-  }
+  },
+  "keywords": [
+    "content-as-code"
+  ]
 }
